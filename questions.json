@@ -1,0 +1,79 @@
+[
+  {
+    "question": "Cụm từ \"Biệt nhỡn liên tài\" xuất hiện trong tác phẩm được hiểu là gì?",
+    "answers": [
+      "Ánh mắt sợ hãi trước những kẻ có quyền lực",
+      "Sự trân trọng, đối xử đặc biệt dành cho người có tài",
+      "Sự đố kỵ, ghen ghét đối với người tài giỏi hơn mình",
+      "Thói xu nịnh để đạt được mục đích cá nhân"
+    ],
+    "correct": "B",
+    "voice": "voice4.mp3"
+  },
+  {
+    "question": "Bản chất tốt đẹp, trong sáng tiềm ẩn của viên quản ngục được Nguyễn Tuân ví như hình ảnh nào?",
+    "answers": [
+      "Một bông hoa sen mọc lên từ vũng bùn lầy",
+      "Một đốm lửa nhỏ sưởi ấm đêm đông lạnh giá",
+      "Một thanh âm trong trẻo chen vào giữa một bản đàn hỗn loạn",
+      "Một viên ngọc sáng bị chôn vùi dưới lớp đất sâu"
+    ],
+    "correct": "C",
+    "voice": "voice5.mp3"
+  },
+  {
+    "question": "Điểm mấu chốt tạo nên sức hấp dẫn đầy kịch tính ngay từ đầu tác phẩm là gì?",
+    "answers": [
+      "Cuộc vượt ngục bất thành của Huấn Cao và các đồng chí",
+      "Tình huống truyện độc đáo: Cuộc gặp gỡ trớ trêu giữa tử tù và quản ngục",
+      "Sự giàu có và quyền lực tuyệt đối của viên quản ngục nơi đề lao",
+      "Sự xuất hiện bất ngờ của thầy thơ lại với vai trò gián điệp"
+    ],
+    "correct": "B",
+    "voice": "voice6.mp3"
+  },
+  {
+    "question": "Huấn Cao quyết định đồng ý cho chữ viên quản ngục vì lý do chính nào sau đây?",
+    "answers": [
+      "Cảm động trước những món rượu thịt biệt đãi mỗi ngày",
+      "Muốn chứng tỏ tài viết chữ rất nhanh và rất đẹp của mình",
+      "Sợ hãi trước uy lực và bộ máy tra tấn của nhà tù",
+      "Cảm động trước \"sở nguyện cao quý\" và tấm lòng của quản ngục"
+    ],
+    "correct": "D",
+    "voice": "voice7.mp3"
+  },
+  {
+    "question": "Vì sao Nguyễn Tuân gọi cảnh cho chữ là \"một cảnh tượng xưa nay chưa từng có\"?",
+    "answers": [
+      "Vì chữ được viết bằng một loại mực vàng vô cùng quý hiếm",
+      "Vì cái đẹp, cái thiên lương được khai sinh giữa chốn ngục tù tăm tối",
+      "Vì đây là lần đầu tiên một tử tù được tự do đi lại trong ngục",
+      "Vì có sự tham gia chứng kiến và cổ vũ của rất nhiều lính canh"
+    ],
+    "correct": "B",
+    "voice": "voice8.mp3"
+  },
+  {
+    "question": "Hành động cuối cùng của quản ngục sau khi nhận chữ mang ý nghĩa gì?",
+    "answers": [
+      "Sự khuất phục và tôn vinh của quyền lực trước cái đẹp, cái thiện",
+      "Sự sợ hãi hoàn toàn trước uy vũ của người tử tù sắp ra pháp trường",
+      "Sự hối hận muộn màng vì đã giam giữ một bậc anh hùng tài hoa",
+      "Sự vui mừng khi sở hữu được một báu vật có giá trị vật chất lớn"
+    ],
+    "correct": "A",
+    "voice": "voice9.mp3"
+  },
+  {
+    "question": "Thành công lớn nhất về mặt nghệ thuật tạo nên sức cuốn hút của truyện ngắn này là gì?",
+    "answers": [
+      "Sử dụng ngôn ngữ hiện đại, bình dị và đậm chất đời sống thường ngày",
+      "Nghệ thuật tương phản đối lập sâu sắc và ngôn ngữ cổ kính giàu tính tạo hình",
+      "Nghệ thuật trào phúng, mỉa mai các thế lực phong kiến lỗi thời",
+      "Xây dựng cốt truyện ly kỳ, thắt nút mở nút theo kiểu truyện trinh thám"
+    ],
+    "correct": "B",
+    "voice": "voice10.mp3"
+  }
+]
